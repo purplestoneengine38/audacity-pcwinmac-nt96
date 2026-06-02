@@ -1,4 +1,4 @@
-# 
+# 最佳 Audacity 效果 Mac OS版 | 专业 Audacity 效果 PC Windows版。集成 多源捕获 和 音高变化，跨平台性能最大化。
 
 
 
